@@ -1,51 +1,132 @@
 # 👋 Hi, I'm Shohjahon Asqarov
-### Frontend Engineer | Founder of Abix Agency | AI-Driven Development
 
-I am a **Middle Frontend Engineer** with over 3 years of professional experience in building high-performance web ecosystems. My passion lies in bridging the gap between sophisticated software engineering and modern AI-driven workflows.
+### Software Engineer · AI-Driven Development
 
----
+I build **scalable digital products and AI-powered software systems** with a strong focus on architecture, performance, maintainability, and engineering quality.
 
-### 🚀 About Me
-- 🏗️ **Founder & CEO** at **Abix Agency**, leading a dedicated team to deliver scalable enterprise solutions.
-- 💻 **Specializing** in React, Next.js, and TypeScript with a deep focus on system architecture.
-- ⚡ **Performance Advocate**: Obsessed with building lightning-fast interfaces and optimizing core web vitals (achieving 98-100 PageSpeed scores).
-- 🤖 **AI Integrationist**: Implementing LLMs and automating business processes using the Gemini API, as seen in projects like **Rassom-AI**.
-- 🛠️ **Modern Workflow**: Leveraging AI-augmented tools like **Cursor** and **Claude** for high-efficiency engineering.
-- 🎓 **Technical Mentor**: Passionate about sharing knowledge; I have mentored aspiring developers at **iTech Academy**.
+My core expertise is the **React / Next.js / TypeScript ecosystem**, with experience extending across backend systems, databases, infrastructure, AI integrations, and production environments.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Frontend:** React, Next.js, Tailwind CSS, Redux, Zustand
-- **AI & Automation:** Gemini API integration, AI-Augmented Coding (Cursor/Claude)
-- **Backend/Integrations:** Node.js, PostgreSQL, Supabase, Firebase
-- **Tools:** Git, Docker, Figma, Vercel
+## 🧠 Engineering Focus
+
+* **Software Architecture** — Designing scalable and maintainable application architectures.
+* **Frontend Engineering** — React, Next.js, TypeScript, rendering strategies and performance optimization.
+* **Full-Stack Development** — Node.js, NestJS, PostgreSQL, Prisma and API-driven architectures.
+* **AI Engineering** — LLM integrations, AI-powered products, agent workflows and intelligent automation.
+* **Performance Engineering** — Core Web Vitals, rendering optimization and production performance.
+* **Product Engineering** — Transforming business requirements into reliable production software.
+* **System Design** — Building modular systems that remain maintainable as products and teams grow.
 
 ---
 
-### 📂 Featured Projects
-- **[Rassom-AI](https://rassom-ai.uz):** An AI-driven image generation platform and Telegram Web App (TWA).
-- **[LEX.UZ PRO](https://shohjahon-dev.uz):** A LegalTech startup project with a comprehensive financial model and business plan.
-- **Abix Agency Solutions:** Custom CRM/LMS infrastructures and automated business ecosystems.
+## 🚀 Currently
+
+**Software Engineer @ MEDIAPARK**
+
+Working on production software and large-scale digital products while exploring the intersection of:
+
+**AI × Software Engineering × Product Architecture**
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Core Technologies
+
+### Engineering
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `NestJS`
+
+### Architecture & Data
+
+`PostgreSQL` · `Prisma` · `MongoDB` · `REST APIs` · `React Query` · `Redux Toolkit`
+
+### AI
+
+`Gemini API` · `LLM Integrations` · `AI Agents` · `AI Workflows` · `AI-assisted Development`
+
+### Infrastructure
+
+`Docker` · `Linux` · `Nginx` · `PM2` · `GitLab CI/CD` · `Vercel`
+
+---
+
+## 🏗️ Selected Projects
+
+### 🎨 Rassom AI
+
+AI-powered image generation platform with a Telegram Web App ecosystem.
+
+**AI Integration · Product Engineering · Telegram Web Apps**
+
+→ https://rassom-ai.uz
+
+---
+
+### 🧑‍💻 Git Ustasi
+
+A developer-focused platform built around Git and GitHub workflows, designed to simplify common developer operations.
+
+**Developer Tools · Automation · Product Engineering**
+
+→ https://gitustasi.uz
+
+---
+
+### 🎡 Pixel Park
+
+A digital ecosystem combining customer-facing experiences with internal business management infrastructure.
+
+**SaaS · Business Automation · Dashboard Architecture**
+
+→ https://pixelpark.uz
+
+---
+
+## 🎓 Mentoring
+
+I've worked as a technical mentor at **iTech Academy**, helping developers move from learning syntax toward real-world software engineering.
+
+My mentoring philosophy:
+
+**Understand the problem → Understand the system → Make engineering decisions → Build**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohjahon-asqarov&show_icons=true&theme=radical&hide_border=true" alt="Shohjahon's GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-asqarov&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shohjahon-asqarov&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-asqarov&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Reach Out
-- **LinkedIn:** [linkedin.com/in/shohjahon-asqarov](https://linkedin.com/in/shohjahon-asqarov)
-- **Telegram:** [@shohjahon_dev](https://t.me/shohjahon_dev)
-- **Portfolio:** [shohjahon-dev.uz](https://shohjahon-dev.uz)
-- **Email:** shohjahonasqarov.web@gmail.com
+## 🌐 Connect
+
+* **LinkedIn:** https://linkedin.com/in/shohjahon-asqarov
+* **Telegram:** https://t.me/shohjahon_dev
+* **Portfolio:** https://shohjahon-dev.uz
+* **Email:** [shohjahonasqarov.web@gmail.com](mailto:shohjahonasqarov.web@gmail.com)
 
 ---
-*"Building the technical foundation for the next generation of digital leaders."*
+
+```typescript
+const shohjahon = {
+  role: "Software Engineer",
+  focus: [
+    "Software Architecture",
+    "AI Engineering",
+    "Product Engineering",
+    "Performance"
+  ],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "NestJS", "PostgreSQL"],
+    infrastructure: ["Docker", "Linux", "CI/CD"],
+    ai: ["LLMs", "Gemini API", "AI Agents"]
+  },
+  philosophy: "Build systems, not just features."
+};
+```
+
+> **Build systems. Solve problems. Ship products.**
