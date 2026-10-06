@@ -2,8 +2,8 @@
 
 # Shohjahon Asqarov
 
-**Software Engineer · React, Next.js, TypeScript, NestJS**
-Tashkent, Uzbekistan
+**Software Engineer @ Mediapark · React, Next.js, TypeScript, NestJS**
+4+ years of experience · Tashkent, Uzbekistan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shohjahon-asqarov)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shohjahon_dev)
@@ -12,7 +12,7 @@ Tashkent, Uzbekistan
 
 </div>
 
-I build production web platforms end to end: clean architecture, fast interfaces, reliable APIs. 3+ years of experience. Now at **Mediapark**, and founder of **Abix Agency**, a small team shipping custom software.
+I build production web platforms end to end: clean architecture, fast interfaces, reliable APIs. 4+ years of experience. Currently **Software Engineer at Mediapark Group**, building Pixel Park. Founder of **Abix Agency**, a small team shipping custom software.
 
 ## Selected work
 
