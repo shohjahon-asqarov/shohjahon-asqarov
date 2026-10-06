@@ -1,132 +1,34 @@
-# 👋 Hi, I'm Shohjahon Asqarov
+<div align="center">
 
-### Software Engineer · AI-Driven Development
+# Shohjahon Asqarov
 
-I build **scalable digital products and AI-powered software systems** with a strong focus on architecture, performance, maintainability, and engineering quality.
+**Software Engineer · React, Next.js, TypeScript, NestJS**
+Tashkent, Uzbekistan
 
-My core expertise is the **React / Next.js / TypeScript ecosystem**, with experience extending across backend systems, databases, infrastructure, AI integrations, and production environments.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shohjahon-asqarov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shohjahon_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://shohjahon-dev.uz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shohjahonasqarov.web@gmail.com)
 
----
+</div>
 
-## 🧠 Engineering Focus
+I build production web platforms end to end: clean architecture, fast interfaces, reliable APIs. 3+ years of experience. Now at **Mediapark**, and founder of **Abix Agency**, a small team shipping custom software.
 
-* **Software Architecture** — Designing scalable and maintainable application architectures.
-* **Frontend Engineering** — React, Next.js, TypeScript, rendering strategies and performance optimization.
-* **Full-Stack Development** — Node.js, NestJS, PostgreSQL, Prisma and API-driven architectures.
-* **AI Engineering** — LLM integrations, AI-powered products, agent workflows and intelligent automation.
-* **Performance Engineering** — Core Web Vitals, rendering optimization and production performance.
-* **Product Engineering** — Transforming business requirements into reliable production software.
-* **System Design** — Building modular systems that remain maintainable as products and teams grow.
+## Selected work
 
----
+- **[Pixel Park](https://pixelpark.uz)** — kids entertainment-park platform: NestJS + Prisma API, Next.js dashboard, Flutter app and POS, staff PWA
+- **Tortamiz** — brand tug-of-war with a Telegram Mini App and live duels (Next.js, Prisma)
+- **[Rassom AI](https://rassom-ai.uz)** — AI image generation with a Telegram Web App
+- **[Git Ustasi](https://gitustasi.uz)** — platform that simplifies Git & GitHub workflows
 
-## 🚀 Currently
+## Impact
 
-**Software Engineer @ MEDIAPARK**
+- **Tijaro.uz** — sole frontend owner, 0 → production in 11 months; Core Web Vitals work made pages ~35% faster
+- **Iqro Agency** — CRM/LMS with 5+ roles and RBAC; Telegram + Google Sheets automation cut manual work ~40%
+- **MBSI School** — feature-based refactor: onboarding 2 weeks → 5 days
 
-Working on production software and large-scale digital products while exploring the intersection of:
+## Stack
 
-**AI × Software Engineering × Product Architecture**
+`TypeScript` `React` `Next.js` `Tailwind` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Flutter` `Docker` `GitLab CI/CD` `Claude Code`
 
----
-
-## ⚙️ Core Technologies
-
-### Engineering
-
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `NestJS`
-
-### Architecture & Data
-
-`PostgreSQL` · `Prisma` · `MongoDB` · `REST APIs` · `React Query` · `Redux Toolkit`
-
-### AI
-
-`Gemini API` · `LLM Integrations` · `AI Agents` · `AI Workflows` · `AI-assisted Development`
-
-### Infrastructure
-
-`Docker` · `Linux` · `Nginx` · `PM2` · `GitLab CI/CD` · `Vercel`
-
----
-
-## 🏗️ Selected Projects
-
-### 🎨 Rassom AI
-
-AI-powered image generation platform with a Telegram Web App ecosystem.
-
-**AI Integration · Product Engineering · Telegram Web Apps**
-
-→ https://rassom-ai.uz
-
----
-
-### 🧑‍💻 Git Ustasi
-
-A developer-focused platform built around Git and GitHub workflows, designed to simplify common developer operations.
-
-**Developer Tools · Automation · Product Engineering**
-
-→ https://gitustasi.uz
-
----
-
-### 🎡 Pixel Park
-
-A digital ecosystem combining customer-facing experiences with internal business management infrastructure.
-
-**SaaS · Business Automation · Dashboard Architecture**
-
-→ https://pixelpark.uz
-
----
-
-## 🎓 Mentoring
-
-I've worked as a technical mentor at **iTech Academy**, helping developers move from learning syntax toward real-world software engineering.
-
-My mentoring philosophy:
-
-**Understand the problem → Understand the system → Make engineering decisions → Build**
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shohjahon-asqarov&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohjahon-asqarov&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-* **LinkedIn:** https://linkedin.com/in/shohjahon-asqarov
-* **Telegram:** https://t.me/shohjahon_dev
-* **Portfolio:** https://shohjahon-dev.uz
-* **Email:** [shohjahonasqarov.web@gmail.com](mailto:shohjahonasqarov.web@gmail.com)
-
----
-
-```typescript
-const shohjahon = {
-  role: "Software Engineer",
-  focus: [
-    "Software Architecture",
-    "AI Engineering",
-    "Product Engineering",
-    "Performance"
-  ],
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "NestJS", "PostgreSQL"],
-    infrastructure: ["Docker", "Linux", "CI/CD"],
-    ai: ["LLMs", "Gemini API", "AI Agents"]
-  },
-  philosophy: "Build systems, not just features."
-};
-```
-
-> **Build systems. Solve problems. Ship products.**
+I also mentor junior developers at **iTech Academy**.
